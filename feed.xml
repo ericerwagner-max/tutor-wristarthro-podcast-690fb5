@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Tutor — Weekly Wrist Arthroplasty &amp; Biomechanics</title>
+<link>https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5</link>
+<language>en-us</language>
+<description>A weekly 20–30 minute two-host walk through the past week of wrist ARTHROPLASTY and BIOMECHANICS literature — total wrist arthroplasty (implant design, survivorship, revision, outcomes), native-wrist and carpal biomechanics (kinematics/kinetics, ligament/TFCC/DRUJ mechanics, load transfer), and implant/cadaveric/finite-element/in-vitro biomechanical studies. Key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</description>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/cover.png"/>
+<image><url>https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/cover.png</url><title>Tutor — Weekly Wrist Arthroplasty &amp; Biomechanics</title><link>https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5</link></image>
+<itunes:explicit>false</itunes:explicit>
+<itunes:owner><itunes:name>Eric R. Wagner, MD, MSc</itunes:name><itunes:email>eric.erwagner@gmail.com</itunes:email></itunes:owner>
+<itunes:summary>A weekly 20–30 minute two-host walk through the past week of wrist ARTHROPLASTY and BIOMECHANICS literature — total wrist arthroplasty (implant design, survivorship, revision, outcomes), native-wrist and carpal biomechanics (kinematics/kinetics, ligament/TFCC/DRUJ mechanics, load transfer), and implant/cadaveric/finite-element/in-vitro biomechanical studies. Key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
+<itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+<item>
+<title>Wrist Arthroplasty &amp; Biomechanics — 2026-07-31</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-31 Tutor Wrist Arthroplasty.m4a</guid>
+<itunes:duration>27:13</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/cover.png"/>
+<description>Weekly Wrist Arthroplasty &amp; Biomechanics Literature Digest — 2026-07-31
+Pulled from PubMed (NCBI E-utilities) across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to articles focused on (a) total wrist arthroplasty / wrist implant replacement (implant design, survivorship, revision, outcomes; includes DRUJ/ulnar-head prosthetic arthroplasty and wrist hemiarthroplasty) or (b) wrist biomechanics — native-wrist and carpal kinematics/kinetics, ligament/TFCC/DRUJ mechanics and load transfer, and implant-related cadaveric, finite-element, in-vitro, and dynamic-imaging studies. Arthroscopy-technique papers (covered by the wrist-arthroscopy track), pure clinical fracture-fixation outcome papers with no biomechanical focus, letters/errata/replies/editorials, and non-wrist items were excluded. Author line = first &amp; senior author; corresponding-author institution listed per article. According to PubMed, 22 articles qualified. This first run widened the window to the last ~18 months by publication date (2025-01-01 → 2026-07-31) to build a fuller sample in a niche literature; going forward this track runs weekly over the prior 7 days and widens the window when the week is thin. JBJS Am and Plastic &amp; Reconstructive Surgery had no qualifying wrist-arthroplasty or wrist-biomechanics articles in this window (the JBJS wrist hits were basic-science carpal-tunnel work, out of scope).
+---
+ J Hand Surg Am (7)
+The busiest journal this window — cadaveric and finite-element biomechanics plus an implant-accuracy study.
+In Vitro Kinetic and Kinematic Analysis of a Recently Designed Total Wrist Implant
+Salvatore M Cavallaro &amp; Frederick W Werner — SUNY Upstate Medical University, Syracuse, NY, USA
+Cadaveric in-vitro study (6 fresh-frozen wrists on a motion simulator) comparing range of motion and tendon forces before and after implanting a recently designed total wrist arthroplasty; the flexion–extension arc fell to ~51°, extension and radioulnar deviation were significantly reduced, and carpal–radial component impingement occurred in 4 of 6 wrists in radial deviation.
+PubMed · DOI
+Accuracy of Implant Placement Using Augmented Reality-assisted Technique in Total Wrist Arthroplasty
+Shimpei Watanabe &amp; Takuji Iwamoto — Keio University School of Medicine, Tokyo, Japan
+Cadaveric study (14 limbs from 7 cadavers) in which an AR-assisted, three-point-registration TWA performed by a TWA-naïve surgeon was compared side-to-side with surgeon-guided TWA; AR improved the accuracy and consistency of radial- and carpal-component placement.
+PubMed · DOI
+Decreased Radial Inclination Without Dorsal Angulation Attenuates the Biomechanical Effects of Ulnar Abutment Syndrome: A Finite Element Analysis
+Takane Suzuki &amp; Yusuke Matsuura — Chiba University Graduate School of Medicine, Chiba, Japan
+Finite-element analysis built from 9 fresh-frozen cadaveric forearms (5 models each) showing that, with volar tilt he</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/2026-07-31%20Tutor%20Wrist%20Arthroplasty.m4a" length="6765806" type="audio/x-m4a"/>
+</item>
+</channel>
+</rss>

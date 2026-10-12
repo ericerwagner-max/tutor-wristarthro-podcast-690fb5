@@ -13,6 +13,22 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of wrist reconstruction and biomechanics literature — total wrist arthroplasty (implant design, survivorship, revision, outcomes); native-wrist and carpal biomechanics (kinematics/kinetics, ligament/TFCC/DRUJ mechanics, load transfer, cadaveric/finite-element/in-vitro/4D-CT studies); intercarpal ligament injuries (scapholunate, lunotriquetral, midcarpal instability, perilunate) and their reconstruction; and wrist arthritis treatments (SLAC/SNAC, proximal row carpectomy, limited/total fusion, denervation). Key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Wrist Arthroplasty &amp; Biomechanics — 2026-10-11</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-10-11 Tutor Wrist Arthroplasty.m4a</guid>
+<itunes:duration>29:35</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/cover.png"/>
+<description>Weekly Wrist Arthroplasty &amp; Biomechanics Literature Digest — 2026-10-11
+Pulled from PubMed (NCBI E-utilities) across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. This track covers (a) total wrist arthroplasty / wrist implant replacement, (b) wrist biomechanics (native-carpal kinematics, ligament/TFCC/DRUJ mechanics, cadaveric/finite-element/in-vitro/4D-CT work), (c) intercarpal ligament injuries (scapholunate, lunotriquetral, midcarpal instability, perilunate: diagnosis, open/reconstructive treatment, biomechanics), and (d) wrist arthritis treatments (SLAC/SNAC and radiocarpal/midcarpal OA; proximal row carpectomy, limited and total fusion, denervation, salvage). Arthroscopy-technique papers (covered by the wrist-arthroscopy track), pure distal-radius-fracture-fixation papers with no biomechanical or carpal-ligament/arthritis focus, basic-science/molecular work, and letters/errata/replies/editorials were excluded. Author line = first &amp; senior author; the corresponding author is named where PubMed lists an electronic address, otherwise the first author's institution is given.
+Window used: the current-week sweeps, then this track's banked candidates, then a newly opened backward slice (2018-09-01 → 2020-09-01). The 7-day publication-date window (2026-10-03 → 2026-10-11) returned zero records for either seed query. A parallel entry-date (edat) sweep of 2026-09-27 → 2026-10-11 returned two PMIDs, and a confirmatory 90-day publication-date sweep (2026-07-11 → 2026-10-11) returned 43 — every one already covered by a prior run of this track, or (PMID 42825736, an arthroscopic dermal-matrix interposition series) left to the wrist-arthroscopy track as last week. With nothing new to cover, this run drew first on the 10 remaining PMIDs banked by the 2026-09-13 run (2020-09 → 2022-09 window) — all 10 were re-screened on abstract and admitted — and then opened the next backward slice, 2018-09-01 → 2020-09-01, as that backlog file directs. That slice returned 183 records not previously covered; on title and abstract screen the 12 strongest in-scope papers are included below and the remaining qualifying candidates are banked for future thin weeks.
+Dedup note: every PMID-like identifier named anywhere in this track's prior digests, episode scripts and outreach logs was excluded up front. All 22 articles below are new to this track.
+Scope note: the one-time (c)/(d) backfill is complete — every digest since 2026-08-02 already covers scapholunate, midcarpal, SLAC/SNAC and wrist-arthritis material — so the self-detecting backfill condition was not met.
+According to PubMed, 22 articles qualified. Four of the six journals are represented; Plast Reconstr Surg and Hand Clin had no qualifying article in any sweep used.
+The through-line this week is what a total wrist actually lasts. Örebro's prospective cohort of 136 wrists gives a 92% ten-year survival with revision as the end point — but on</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/2026-10-11%20Tutor%20Wrist%20Arthroplasty.m4a" length="7365226" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Wrist Arthroplasty &amp; Biomechanics — 2026-10-03</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 03 Oct 2026 08:00:00 +0000</pubDate>
@@ -157,31 +173,6 @@ Long-Term Functional Outcomes After Volar Capsulodesis for Treatment of Scapholu
 Aida K Sarcon &amp; Steven L Moran — Mayo Clinic, Rochester, MN, USA
 Single-institution observational series (2004–2022; 28 patients, mean follow-up 86 months) of volar scapholunate capsulodesis using a strip of the long radiolunate ligament for injuries with a torn volar SL component; mean DASH was 16.4 and PRWE 24.6, grip reached 79% of the contralateral side, 79% returned to prior work, and only two patients required secondary surgery.</description>
 <enclosure url="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/2026-08-02%20Tutor%20Wrist%20Arthroplasty.m4a" length="7959099" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Wrist Arthroplasty &amp; Biomechanics — 2026-07-31</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-31 Tutor Wrist Arthroplasty.m4a</guid>
-<itunes:duration>27:13</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/cover.png"/>
-<description>Weekly Wrist Arthroplasty &amp; Biomechanics Literature Digest — 2026-07-31
-Pulled from PubMed (NCBI E-utilities) across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to articles focused on (a) total wrist arthroplasty / wrist implant replacement (implant design, survivorship, revision, outcomes; includes DRUJ/ulnar-head prosthetic arthroplasty and wrist hemiarthroplasty) or (b) wrist biomechanics — native-wrist and carpal kinematics/kinetics, ligament/TFCC/DRUJ mechanics and load transfer, and implant-related cadaveric, finite-element, in-vitro, and dynamic-imaging studies. Arthroscopy-technique papers (covered by the wrist-arthroscopy track), pure clinical fracture-fixation outcome papers with no biomechanical focus, letters/errata/replies/editorials, and non-wrist items were excluded. Author line = first &amp; senior author; corresponding-author institution listed per article. According to PubMed, 22 articles qualified. This first run widened the window to the last ~18 months by publication date (2025-01-01 → 2026-07-31) to build a fuller sample in a niche literature; going forward this track runs weekly over the prior 7 days and widens the window when the week is thin. JBJS Am and Plastic &amp; Reconstructive Surgery had no qualifying wrist-arthroplasty or wrist-biomechanics articles in this window (the JBJS wrist hits were basic-science carpal-tunnel work, out of scope).
----
- J Hand Surg Am (7)
-The busiest journal this window — cadaveric and finite-element biomechanics plus an implant-accuracy study.
-In Vitro Kinetic and Kinematic Analysis of a Recently Designed Total Wrist Implant
-Salvatore M Cavallaro &amp; Frederick W Werner — SUNY Upstate Medical University, Syracuse, NY, USA
-Cadaveric in-vitro study (6 fresh-frozen wrists on a motion simulator) comparing range of motion and tendon forces before and after implanting a recently designed total wrist arthroplasty; the flexion–extension arc fell to ~51°, extension and radioulnar deviation were significantly reduced, and carpal–radial component impingement occurred in 4 of 6 wrists in radial deviation.
-PubMed · DOI
-Accuracy of Implant Placement Using Augmented Reality-assisted Technique in Total Wrist Arthroplasty
-Shimpei Watanabe &amp; Takuji Iwamoto — Keio University School of Medicine, Tokyo, Japan
-Cadaveric study (14 limbs from 7 cadavers) in which an AR-assisted, three-point-registration TWA performed by a TWA-naïve surgeon was compared side-to-side with surgeon-guided TWA; AR improved the accuracy and consistency of radial- and carpal-component placement.
-PubMed · DOI
-Decreased Radial Inclination Without Dorsal Angulation Attenuates the Biomechanical Effects of Ulnar Abutment Syndrome: A Finite Element Analysis
-Takane Suzuki &amp; Yusuke Matsuura — Chiba University Graduate School of Medicine, Chiba, Japan
-Finite-element analysis built from 9 fresh-frozen cadaveric forearms (5 models each) showing that, with volar tilt he</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-wristarthro-podcast-690fb5/2026-07-31%20Tutor%20Wrist%20Arthroplasty.m4a" length="6765806" type="audio/x-m4a"/>
 </item>
 </channel>
 </rss>
